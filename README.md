@@ -40,6 +40,7 @@
 [github stats](https://github-readme-stats.vercel.app/api?username=alternativeritam)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alternativeritam)](https://github.com/alternativeritam/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alternativeritam)](https://github.com/alternativeritam/github-readme-stats)-->
+
 
 
