@@ -1,10 +1,8 @@
-### Hi there, I'm Ritam  👋
-
-
 
 
 ![IMG_20220105_084940](https://user-images.githubusercontent.com/67322468/148155707-a30172c1-fd58-4454-8859-67a0c5364fc0.jpg)
 
+### Hi there, I'm Ritam  👋
 
 <!--
 **alternativeritam/alternativeritam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
