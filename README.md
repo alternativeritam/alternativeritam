@@ -12,4 +12,4 @@
 - 📫 How to reach me: [Just Click Here!😁](https://www.linkedin.com/in/ritam-basu-004451193/)
 - 🧗 I try to: Explore challenging tasks and try to find new ways of solving it 👨‍💻
 
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alternativeritam)](https://github.com/alternativeritam/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alternativeritam)](https://github.com/alternativeritam/github-readme-stats)
